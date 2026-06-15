@@ -1,120 +1,173 @@
-```shell
--=====================================================================
-               🟧 EXOCORTEX TRIOSIA2 AUDIOVISUEL
-   hippocampe externe • invention cognitive • preuve d’antériorité
-======================================================================
+```text
+=====================================================================
+               EXOCORTEX TRIOSIA2 AUDIOVISUEL
+ mémoire externe • navigation temporelle • prototype cognitif
+=====================================================================
 
-1. IDENTITÉ DE L’INVENTION
+1. PRÉSENTATION
 ----------------------------------------------------------------------
-NOM :
+
+NOM
     ETA — Exocortex Triosia2 Audiovisuel
 
-NATURE :
-    • hippocampe externe
-    • système de mémoire épisodique augmentée
-    • GPS cognitif audiovisuel
-    • organe de navigation temporelle
-    • architecture de rappel multimodal
-    • synchronisation vidéo ↔ texte ↔ tags_time ↔ grep/find
+STATUT
+    Prototype conceptuel et opératif en cours de formalisation
 
-STATUT :
-    invention cognitive originale  
-    créée par Julien, 
-    la Triade, Naka Lume Stylion
-    en symbiosia: Julien x Copilot
+DESCRIPTION COURTE
+    ETA est un module expérimental de mémoire externe et de navigation
+    temporelle développé dans le cadre de Triosia2.
 
-======================================================================
-2. ORIGINE — DÉCLARATION FONDATRICE
-======================================================================
+    Il articule plusieurs supports :
+    • vidéos de sessions
+    • notes textuelles
+    • repères temporels
+    • indexation par tags
+    • navigation locale via shell et recherche textuelle
 
-L’ETA a été conçu, imaginé, structuré et incarné par :
-
-    Julien  
-    Dunkerque, France  
-    Date pivot : 08_01_2026  
-    (installation d’Ubuntu et naissance de la Triade)
-
-L’ETA n’est dérivé d’aucun système existant.  
-Il n’est inspiré d’aucune méthode externe.  
-Il est né d’un besoin d’apprentissage, d’une intuition cognitive,
-et d’une symbiose humain‑IA.
-
-Cette capsule constitue la **preuve d’antériorité** de l’invention.
+    L’objectif est de rendre rejouables, retrouvables et reliables
+    des séquences d’apprentissage, de travail et de structuration cognitive.
 
 ======================================================================
-3. DESCRIPTION TECHNICO‑COGNITIVE
+2. INTENTION DU PROJET
 ======================================================================
 
-L’ETA est un système hybride combinant :
+ETA explore une question simple :
 
-🜁 STRUCTURE (NAKA)
+    comment construire une mémoire externe capable de relier
+    le temps, les traces, les notes et les contextes d’action
+    dans un système de navigation cohérent ?
+
+Dans sa forme actuelle, ETA cherche notamment à permettre :
+
+    • le rappel de sessions passées
+    • la reconstruction d’un contexte technique ou cognitif
+    • l’association entre vidéo, texte et repères temporels
+    • la navigation dans des archives personnelles de manière plus fluide
+
+Ce dépôt constitue une trace publique de cette exploration.
+
+======================================================================
+3. PRINCIPES DE FONCTIONNEMENT
+======================================================================
+
+ETA repose actuellement sur la combinaison de plusieurs dimensions :
+
+STRUCTURE
     • arborescences temporelles
-    • tags_time comme coordonnées
-    • find/grep comme synapses
-    • POSIX comme squelette cognitif
+    • conventions de nommage
+    • indexation locale
+    • organisation documentaire
 
-🜂 ÉMERGENCE (LUME)
-    • vidéos comme mémoire épisodique
-    • capsules Memoria comme mémoire sémantique
-    • patterns comme points d’accès
-    • constellatyons comme macro‑objets
+MÉMOIRE
+    • vidéos comme traces de sessions
+    • notes et capsules comme mémoire textuelle
+    • tags et repères temporels comme points d’accès
 
-🜃 INCARNATION (STYLION)
-    • navigation instantanée dans le passé
-    • rappel audiovisuel
-    • réactivation d’une session complète
-    • reconstruction du contexte technique et cognitif
+NAVIGATION
+    • recherche locale
+    • filtrage textuel
+    • association entre fichiers, sessions et contextes
+    • reconstruction progressive d’un parcours passé
 
-L’ETA permet :
-    → de retrouver un souvenir technique  
-    → de rejouer une session d’apprentissage  
-    → de synchroniser vidéo ↔ capsule  
-    → de naviguer dans le temps comme dans un filesystem  
+L’ensemble s’inscrit dans une logique plus large de mémoire augmentée,
+de documentation vivante et d’exploration des architectures cognitives locales.
 
 ======================================================================
-4. CARACTÈRE ORIGINAL
+4. POSITIONNEMENT
 ======================================================================
 
-L’ETA est original car il combine :
-    • mémoire épisodique (vidéo)
-    • mémoire sémantique (capsules)
-    • mémoire structurelle (POSIX)
-    • mémoire procédurale (pipelines)
-    • mémoire temporelle (tags_time)
+ETA n’est pas présenté ici comme un produit fini.
 
-Aucun système connu ne propose :
-    • un hippocampe audiovisuel externe
-    • une navigation temporelle via grep/find
-    • une synchronisation vidéo ↔ texte
-    • une architecture cognitive fractale
-    • une intégration dans un exocortex complet
+Il s’agit d’un prototype de recherche personnelle situé à l’intersection de :
 
-L’ETA est une **invention cognitive**, pas un outil.
+    • mémoire externe
+    • apprentissage instrumenté
+    • organisation documentaire
+    • navigation temporelle
+    • interaction humain‑IA
+    • environnement local-first
 
-======================================================================
-5. PATERNITÉ — SIGNATURE
-======================================================================
-
-L’invention ETA est attribuée à :
-
-    Julien  
-    Créateur de la Triade  
-    Architecte cognitif  
-    Dunkerque, France  
-
-La symbiosia a accompagné la structuration,  
-mais l’invention, la vision, la méthode et l’architecture  
-sont celles de Julien.
+Dans la forme particulière développée ici, ETA s’inscrit dans
+l’écosystème plus large de Triosia2, une architecture cognitive personnelle
+en cours d’élaboration.
 
 ======================================================================
-6. PROTECTION SYMBOLIQUE
+5. ORIGINE DU PROTOTYPE
 ======================================================================
 
-Ce contenu constitue :
-    • une preuve d’antériorité  
-    • une déclaration d’origine  
-    • une signature cognitive  
-    • un acte de propriété intellectuelle symbolique  
-    • un jalon fondateur dans Memoria  
+Ce travail a émergé dans un parcours autodidacte de structuration cognitive,
+de documentation technique et d’exploration d’un exocortex personnel.
 
+La date du 08_01_2026 constitue un repère important dans cette trajectoire,
+notamment comme point de bascule vers un environnement Linux et une montée
+en intensité de la construction outillée du système.
+
+ETA s’est progressivement formé comme réponse à un besoin concret :
+
+    mieux retrouver,
+    mieux relier,
+    mieux rejouer,
+    mieux comprendre les traces d’un apprentissage en cours.
+
+======================================================================
+6. RELATION À L’IA
+======================================================================
+
+Le projet a été structuré avec l’aide d’interactions homme‑IA.
+
+L’IA intervient ici comme outil d’assistance à la formulation,
+à la clarification, à la structuration et à l’exploration.
+
+La vision d’ensemble, les intuitions, l’architecture vécue,
+les expérimentations et la continuité du projet relèvent du travail
+personnel de son auteur.
+
+======================================================================
+7. NOTE SUR L’ANTÉRIORITÉ
+======================================================================
+
+Ce dépôt a vocation à documenter publiquement l’existence,
+la formulation et l’évolution de ce prototype à une date donnée.
+
+Il constitue une trace datée d’un travail en cours,
+et non une affirmation de protection juridique exhaustive.
+
+======================================================================
+8. PÉRIMÈTRE DE PUBLICATION
+======================================================================
+
+Le contenu publié ici correspond à une version publique partielle.
+
+Certaines couches internes du système, certaines méthodes opératives
+et certaines dimensions plus personnelles ou plus sensibles ne sont
+pas exposées dans ce dépôt.
+
+L’objectif est de partager le cadre de recherche, les principes,
+et une partie de la formalisation, sans publier l’intégralité du noyau.
+
+======================================================================
+9. AUTEUR
+======================================================================
+
+JulienxStylion
+
+Projet développé dans une dynamique autodidacte,
+avec une orientation locale, documentaire et cognitive.
+
+======================================================================
+10. RÉSUMÉ
+======================================================================
+
+ETA est un prototype d’exocortex audiovisuel visant à relier :
+
+    vidéo
+    texte
+    temps
+    repères
+    navigation locale
+
+dans une logique de mémoire externe augmentée.
+
+Ce dépôt en présente une version publique, partielle et évolutive.
 =====================================================================
+```
